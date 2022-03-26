@@ -1,0 +1,336 @@
+@media all and (min-width: 1400px) {
+	.box_2 {
+	
+	margin-left: -100px;
+}
+}
+@media all and (max-width: 1199px){
+	.bottom_design {
+		padding-left: 180px;
+		margin-top: 20px;
+		margin-right: -140px;
+	}
+	.box_2 {
+		margin-left: 15px;
+	}
+}
+@media all and (max-width: 991px){
+	.shadow_1, .shadow_2, .shadow_3 {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 40%;
+		        flex: 0 0 40%;
+	}
+	.box_1 {
+		width: 120px;
+		height: 120px;
+		margin-left: 100px;
+	}
+	.box_1:before {
+		top: -60px;
+		left: -70px;
+	}
+	.box_1:after {
+		bottom: -45px;
+		right: -35px;
+	}
+	.box_2 {
+		width: 80px;
+		height: 80px;
+		margin-left: 20px;
+	}
+
+	.box_2:before {
+		top: -25px;
+		left: -20px;
+	}
+	.box_3{
+		width: 80px;
+		height: 80px;
+		margin-left: 45px;
+	}
+	.box_3:before {
+		top: -25px;
+		left: -20px;
+	}
+	.certifi_proud h1 {
+		font-size: 35px;
+		letter-spacing: -2px;
+	}
+	.bottom_design {
+		padding-left: 190px;
+	}
+	.btm_1 {
+		width: 120px;
+		height: 120px;
+		margin-left: 100px;
+	}
+	.btm_1:before {
+		top: -40px;
+		left: -40px;
+	}
+	.btm_1:after {
+		bottom: -60px;
+		right: -55px;
+	}
+	.btm_2 {
+		width: 80px;
+		height: 80px;
+		margin-left: -45px;
+		margin-top: -40px;
+	}
+
+	.btm_2:before {
+		top: -45px;
+		left: -45px;
+	}
+	.btm_2:after {
+		bottom: -20px;
+		right: -20px;
+	}
+	.btm_3 {
+		width: 80px;
+		height: 80px;
+		margin-left: 30px;
+	}
+	.btm_3:before {
+		top: -50px;
+		left: -45px;
+	}
+	.btm_3:after {
+		bottom: -20px;
+		right: -20px;
+	}
+	.bar_code img {
+		width: 80px;
+	}
+}
+@media all and (max-width: 767px){
+	.boxshadow_design {
+		margin-left: 70px;
+	}
+	.logo_area a {
+		width: 200px;
+		margin-top: 100px;
+	}
+	.carti_heading h1 {
+		font-size: 35px;
+		letter-spacing: -1px;
+		margin-top: 10px;
+	}
+	.carti_heading span {
+		font-size: 22px;
+	}
+	.certifi_proud span {
+		font-size: 19px;
+	}
+	.certifi_proud h1 {
+		font-size: 32px;
+	}
+	.single_-details li {
+		font-size: 18px;
+	}
+	.certifi_award {
+		width: 150px;
+		margin-top: 40px;
+	}
+	.bar_code {
+		margin-top: 30px;
+		text-align: center;
+	}
+	.bar_code img {
+		margin: auto;
+		margin-top: 10px;
+	}
+	.bottom_design {
+		padding-left: 180px;
+		margin-top: 120px;
+	}
+	.btm_2 {
+		margin-left: -20px;
+		margin-top: -35px;
+	}
+}
+@media all and (max-width: 575px){
+	.boxshadow_design {
+		margin-left: 20px;
+	}
+	.box_1 {
+		width: 100px;
+		height: 100px;
+		margin-left: 75px;
+	}
+	.box_1:before {
+		top: -55px;
+		left: -60px;
+	}
+	.box_1:after {
+		bottom: -30px;
+		right: -25px;
+	}
+	.box_2 {
+		width: 70px;
+		height: 70px;
+		margin-left: 15px;
+		margin-top: 110px;
+	}
+	.box_2:before {
+		top: -15px;
+		left: -15px;
+	}
+	.box_3 {
+		width: 70px;
+		height: 70px;
+		margin-left: 30px;
+		margin-top: 15px;
+	}
+	.box_3:before {
+		top: -20px;
+		left: -15px;
+	}
+	.carti_heading h1 {
+		font-size: 30px;
+	}
+	.carti_heading span {
+		font-size: 20px;
+	}
+	.certifi_proud {
+		margin-top: 20px;
+	}
+	.certifi_proud span {
+		font-size: 17px;
+	}
+	.certifi_proud h1 {
+		font-size: 25px;
+	}
+	.single_-details ul {
+		margin-top: 20px;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+	}
+	.single_-details li {
+		font-size: 16px;
+		max-width: 300px;
+		width: 100%;
+		line-height: 1.6;
+	}
+	.certifi_award {
+		width: 125px;
+	}
+	.bar_code a {
+		font-size: 12px;
+	}
+	.bar_code img {
+		width: 60px;
+	}
+	.btm_1 {
+		width: 100px;
+		height: 100px;
+	}
+	.btm_1:before {
+		top: -30px;
+		left: -30px;
+	}
+	.btm_2 {
+		width: 70px;
+		height: 70px;
+		margin-top: -26px;
+	}
+	.btm_2:before {
+		top: -40px;
+		left: -40px;
+	}
+	.btm_3 {
+		width: 70px;
+		height: 70px;
+		margin-left: 40px;
+	}
+	.btm_3:before {
+		top: -40px;
+		left: -40px;
+	}
+
+}
+@media all and (max-width: 500px){
+	.bottom_design {
+		padding-left: 80px;
+	}
+}
+@media all and (max-width: 375px){
+	.boxshadow_design {
+		margin-left: 10px;
+	}
+	.box_1 {
+		width: 80px;
+		height: 80px;
+		margin-left: 75px;
+	}
+	.box_1:before {
+		top: -45px;
+		left: -45px;
+	}
+	.box_2 {
+		width: 65px;
+		height: 65px;
+		margin-left: 10px;
+		margin-top: 105px;
+	}
+	.box_3 {
+		width: 65px;
+		height: 65px;
+		margin-left: 25px;
+		margin-top: 12px;
+	}
+	.logo_area a {
+		width: 110px;
+		margin-top: 80px;
+	}
+	.carti_heading h1 {
+		font-size: 26px;
+	}
+	.carti_heading span {
+		font-size: 16px;
+	}
+	.certifi_proud span {
+		font-size: 15px;
+	}
+	.certifi_proud h1 {
+		font-size: 22px;
+	}
+	.single_-details li {
+		font-size: 15px;
+	}
+	.single_-details li:nth-child(1) {
+		margin-left: 0px;
+	}
+	.certifi_award {
+		width: 110px;
+	}
+	.bottom_design {
+		padding-left: 10px;
+	}
+	.btm_2 {
+		width: 65px;
+		height: 65px;
+		margin-top: -18px;
+	}
+	.btm_1 {
+		width: 80px;
+		height: 80px;
+	}
+	.btm_1:before {
+		top: -25px;
+		left: -25px;
+	}
+	.btm_1:after {
+		bottom: -48px;
+		right: -45px;
+	}
+	.btm_3 {
+		width: 65px;
+		height: 65px;
+		margin-left: 45px;
+		margin-top: 12px;
+	}
+}
