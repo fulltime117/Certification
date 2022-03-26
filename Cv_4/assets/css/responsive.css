@@ -1,0 +1,190 @@
+@media all and (max-width: 1199px) {
+	
+}
+@media all and (min-width: 991px) {
+	.profile_top_link {
+		display: none;
+	}
+}
+@media all and (max-width: 991px) {
+	.profile_top_link {
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+		-ms-flex-wrap: wrap;
+		    flex-wrap: wrap;
+		padding-left: 30px;
+	}
+	.top_details_link ul li a {
+		color: #FFF;
+		font-weight: 500;
+		font-size: 15px;
+	}
+	.top_details_link ul li a span i{
+		width: 35px;
+		height: 20px;
+		color: #000;
+		font-size: 16px;
+		text-align: center;
+		margin-left: 10px;
+
+	}
+	.top_details_link ul li:nth-child(2) span i{
+		margin-left: 111px;
+	}
+	.top_details_link ul li:nth-child(3) span i {
+		margin-left: 52px;
+	}
+	.top_details_link ul li:nth-child(4) span i {
+		margin-left: 51px;
+	}
+	.top_details_link ul li a span img {
+		width: 35px;
+		height: 25px;
+		-o-object-fit: cover;
+		   object-fit: cover;
+	}
+	.details_btm_txt p {
+		color: #FFF;
+		max-width: 430px;
+		width: 100%;
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+	.profile_details_area {
+		display: none;
+	}
+	.contact_link ul li {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 50%;
+		        flex: 0 0 50%;
+		margin-bottom: 6px;
+	}
+
+
+}
+@media all and (max-width: 767px) {
+	.skills_txt {
+		margin-top: 20px;
+	}
+	.signle_skill_items {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 50%;
+		        flex: 0 0 50%;
+		text-align: center;
+		margin-bottom: 15px;
+	}
+	h2 {
+		font-size: 18px;
+	}
+	.work_exp_area, .skills_main, .edu_exp_area, .orgin_main_area, .seminar-membership-area, .reference_area,
+	.contact-area {
+		padding-left: 0px;
+	}
+	.profile_images_area {
+		text-align: left;
+		padding-left: 30px;
+	}
+	.emp_left {
+		
+	}
+	.emp_right {
+		
+	}
+	.main_gdpr_area {
+		padding-left: 0px;
+	}
+
+}
+@media all and (max-width: 575px) {
+	.signle_skill_items {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 100%;
+		        flex: 0 0 100%;
+		text-align: center;
+		margin-bottom: 15px;
+	}
+	.seminar-membership-area {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+	}
+	.membership-area {
+		margin-top: 15px;
+	}
+	.referance_txt {
+		-webkit-box-align: start;
+		    -ms-flex-align: start;
+		            -ms-grid-row-align: flex-start;
+		        align-items: flex-start;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+	}
+	.refen_top {
+		margin-bottom: 10px;
+	}
+	.contact_link ul li {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 100%;
+		        flex: 0 0 100%;
+	}
+	.work_heading h2 i, .works-heading h2 span i, .referance_heading h2 span i {
+		margin-right: 10px;
+	}
+	.left_txt ul {
+		padding: 0px 0px;
+		padding-bottom: 8px;
+	}
+	.profile_images_area {
+		text-align: center;
+		padding-left: 0px;
+	}
+	.hading_ex > h5 {
+		font-size: 17px;
+	}
+	.Final_score {
+		margin-right: 10px;
+	}
+	.emp_name {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+	}
+	.emp_right {
+		text-align: left;
+	}
+
+}
+@media all and (max-width: 414px){
+	.top_details_link ul li a {
+		font-size: 14px;
+	}
+	.top_details_link ul li:nth-child(2) span i {
+		margin-left: 104px;
+	}
+	.top_details_link ul li:nth-child(3) span i {
+		margin-left: 49px;
+	}
+	.top_details_link ul li:nth-child(4) span i {
+		margin-left: 48px;
+	}
+	p {
+		font-size: 14px;
+		line-height: 1.5;
+	}
+	.details_btm_txt p {
+		padding-right: 20px;
+	}
+	.profile_top_link, .whyme_main_area, .languages_main-area, .award_area, .Certificate, .follow_me_area {
+    	padding-left: 15px;
+    }
+    .emp_left h5 {
+		font-size: 14px;
+	}
+
+
+}

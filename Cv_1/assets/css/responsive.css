@@ -1,0 +1,154 @@
+@media all and (max-width: 1199px) {
+	
+}
+@media all and (max-width: 991px) {
+	.profile_heading h1 {
+		font-size: 38px;
+	}
+	.profiles_right p {
+		max-width: 500px;
+		margin-left: 33px;
+	}
+	.skills_left, .soft_left, .Lang_left {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 40%;
+		        flex: 0 0 40%;
+	}
+	.soft_right span, .Lang_right span {
+		right: 200px;
+	}
+	.single_details {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 50%;
+		        flex: 0 0 50%;
+	}
+	.personal_details {
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+		-ms-flex-wrap: wrap;
+		    flex-wrap: wrap;
+	}
+	.footer_bg {
+		max-width: inherit;
+		margin-left: 0;
+	}
+
+}
+@media all and (max-width: 767px) {
+	.soft_right span, .Lang_right span {
+		right: 110px;
+	}
+	.main_gdpr_area p {
+		font-size: 14px;
+	}
+
+
+}
+@media all and (max-width: 575px) {
+	.profile_heading h1 {
+		font-size: 32px;
+	}
+	h2 {
+		color: #002E58;
+		font-size: 18px;
+		font-weight: 600;
+	}
+	.profiles_left, .profiles_right {
+		margin-top: 20px;
+	}
+	.work-ex-descib, .edu-ex-descib, .certi_details {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+	}
+	.works-left, .edu-left, .certifi_left {
+		margin-bottom: 15px;
+	}
+	.works-left h6, .edu-left h6, .certifi_left h6 {
+		max-width: inherit;
+	}
+	.works-right ul li, .edu-right ul li {
+		margin-right: 15px;
+	}
+	.single-reference {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+	}
+	.single-heading {
+		margin-bottom: 12px;
+	}
+	.seminar-membership-area {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+	}
+	.membership-area {
+		padding-left: 0px;
+	}
+	.personal_details {
+		display: inherit;
+		-ms-flex-wrap: wrap;
+		    flex-wrap: wrap;
+	}
+	.skills_left span, .soft_left span, .Lang_left span {
+		font-size: 15px;
+	}
+	.works-left, .edu-left, .certifi_left {
+		margin-bottom: 0px;
+	}
+	.orgin_items ul li {
+		font-size: 14px;
+	}
+	h3 {
+		font-size: 17px;
+	}
+	.single_award ul li {
+		font-size: 14px;
+	}
+	.seminar-txt ul li, .membership-txt ul li {
+		font-size: 14px;
+	}
+	h4 {
+		font-size: 16px;
+	}
+	.footer_bg {
+		height: 50px;
+	}
+	.skills_right ul, .soft_right ul, .Lang_right ul {
+		-webkit-box-pack: end;
+		    -ms-flex-pack: end;
+		        justify-content: flex-end;
+		padding-left: 0px;
+	}
+	.soft_right span, .Lang_right span {
+		right: 0px;
+	}
+
+	
+}
+@media all and (max-width: 414px){
+	.profile_heading h1 {
+		font-size: 30px;
+	}
+	h2 {
+		font-size: 17px;
+	}
+	.soft_right span, .Lang_right span {
+		right: 1px;
+	}
+	.skills_left, .soft_left, .Lang_left {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 44%;
+		        flex: 0 0 44%;
+	}
+	.skills_left span, .soft_left span, .Lang_left span {
+		font-size: 14px;
+	}
+
+
+}

@@ -1,0 +1,296 @@
+@media all and (max-width: 1199px) {
+	.profile-heading h6 {
+		padding-left: 30px;
+	}
+	.profile-heading h1{
+		margin-left: 30px;
+	}
+	.profile-contact ul {
+		margin-left: 30px;
+	}
+	.aboutme-heading h1, .hobbies-heading h1, .orgin_heading h1{
+		margin-left: 30px;
+	}
+	.aboutme-descib {
+		padding-left: 30px;
+		padding-bottom: 50px;
+	}
+	.hobeis-icon {
+		padding-left: 10px;
+	}
+	.orgin_items {
+		margin-left: 30px;
+	}
+}
+@media all and (max-width: 991px) {
+	
+	.personal-info-area .profile-pic {
+		max-width: 300px;
+		width: 100%;
+		height: 300px;
+	}
+	.profile-heading {
+		max-width: 300px;
+		width: 100%;
+	}
+	.profile-heading h1{
+		font-size: 38px;
+	}
+	.profile-contact ul {
+		padding-bottom: 20px;
+	}
+	.aboutme-descib p {
+		max-width: inherit;
+		width: 100%;
+	}
+	.aboutme-descib {
+		padding-bottom: 20px;
+	}
+	.hobeis-icon {
+		padding-left: 0px; 
+		padding-bottom: 20px;
+	}
+	.works-heading {
+		margin-top: 30px;
+	}
+	.works-Ex-area {
+		margin-left: 30px;
+	}
+	.aboutme-heading h1, .hobbies-heading h1, .works-heading h1, .certificated-heading h1, 
+	.reference-heading h1, .award-heading h1, .job-heading h1, .computer-heading h1, 
+	.seminar-heading h1, .member-heading h1 {
+		margin-right: 10px;
+		margin-bottom: 25px;
+	}
+	.skills-heading h1 {
+		margin-bottom: 20px;
+		margin-left: 30px;
+	}
+	.progress {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 60%;
+		        flex: 0 0 60%;
+	}
+	.txt {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 20%;
+		        flex: 0 0 20%;
+	}
+	.single-skills {
+		margin-left: 70px;
+		margin-right: 112px;
+	}
+	.works-Ex-area{
+		margin-left: 0px;
+	}
+	.works-left {
+		margin-bottom: 20px;
+	}
+	.works-right {
+		margin-bottom: 20px;
+	}
+	.Education-area .works-heading {
+		margin-top: 20px;
+	}
+	.reference-area {
+		margin-top: 25px;
+	}
+	.single-awards h3 {
+		font-size: 16px;
+	}
+	.lang_header h1 {
+		margin-right: 10px;
+	}
+
+
+}
+@media all and (max-width: 767px) {
+	.works-left {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 40%;
+		        flex: 0 0 40%;
+	}
+	.works-right {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 60%;
+		        flex: 0 0 60%;
+		padding-left: 20px;
+	}
+	.single-heading {
+		margin-right: 15px;
+	}
+	.aboutme-heading h1, .hobbies-heading h1, .works-heading h1, .certificated-heading h1, 
+	.reference-heading h1, .award-heading h1, .skills-heading h1, .job-heading h1, 
+	.computer-heading h1, .seminar-heading h1, .member-heading h1, .orgin_heading h1, .lang_header h1 {
+		margin-bottom: 15px;
+	}
+	.awards_skills-area {
+		margin-top: 20px;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+	}
+	.skills-area {
+		padding-left: 0px;
+	}
+	.txt {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 25%;
+		        flex: 0 0 25%;
+	}
+	.contact-area {
+		margin-top: 30px;
+		margin-bottom: 35px;
+	}
+	.another-skills {
+		margin-top: 20px;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+	}
+	.computer-skills, .membership-area {
+		padding-left: 0px;
+		margin-top: 15px;
+	}
+	.seminar-membership-area {
+		margin-top: 20px;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+	}
+	.contact-area ul {
+		-webkit-box-align: start;
+		    -ms-flex-align: start;
+		            -ms-grid-row-align: flex-start;
+		        align-items: flex-start;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+	}
+	.certifacate_languages-area {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+	}
+	.languages_main-area {
+		padding-left: 0px;
+		margin-top: 15px;
+	}
+	.main_gdpr_area p {
+		font-size: 14px;
+	}
+
+
+
+}
+@media all and (max-width: 575px) {
+	.personal-info-area .profile-pic {
+		max-width: inherit;
+	}
+	.profile-heading {
+		max-width: inherit;
+	}
+	.profile-heading h1 {
+		font-size: 30px;
+		max-width: inherit;
+		margin-left: 25px;
+	}
+	.profile-heading h6 {
+		padding-left: 30px;
+		font-size: 14px;
+	}
+	.profile-contact ul {
+		padding-bottom: 15px;
+		padding-top: 25px;
+	}
+	h1 {
+		font-size: 18px;
+	}
+	.aboutme-heading h1 i, .hobbies-heading h1 i, .works-heading h1 i, .certificated-heading h1 i, 
+	.reference-heading h1 i, .award-heading h1 i, .skills-heading h1 i, .job-heading h1 i, 
+	.computer-heading h1 i, .seminar-heading h1 i, .member-heading h1 i, .orgin_heading h1 i, .lang_header h1 i {
+		width: 20px;
+		height: 20px;
+		font-size: 12px;
+		margin-right: 8px;
+	}
+	.work-ex-descib {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+	}
+	.single-skills {
+		margin-left: 55px;
+		margin-right: 40px;
+	}
+	.txt {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 40%;
+		        flex: 0 0 40%;
+	}
+	h2 {
+		font-size: 16px;
+	}
+	.works-right {
+		padding-left: 0px; 
+	}
+	h3 {
+		font-size: 15px;
+	}
+	.works-left {
+		margin-bottom: 10px;
+	}
+	.Education-area .works-heading {
+		margin-top: 10px;
+	}
+	.works-left h3 {
+		max-width: inherit;
+	}
+	.Certifacted-txt ul li, .job-txt ul li, .computer-txt ul li, .seminar-txt ul li, .membership-txt ul li {
+		font-size: 14px;
+	}
+	.reference-area {
+		margin-top: 15px;
+	}
+	.single-reference {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+	}
+	.single-heading ul {
+		margin-top: 5px;
+	}
+	.single-heading ul li:nth-child(1) {
+		margin-bottom: 10px;
+	}
+	.single-heading ul {
+		margin-top: 5px;
+		margin-bottom: 15px;
+	}
+	.single-awards {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+	}
+	.single-awards p {
+		max-width: inherit;
+		margin-top: 5px;
+	}
+	.orgin_items ul li {
+		font-size: 14px;
+		
+	}
+	.skills-heading h1, .orgin_heading h1 {
+		margin-right: 10px;
+	}
+
+}
+
